@@ -1,4 +1,5 @@
-//your JS code here. If required.
+
+
 let p = document.getElementById("timer");
 let d = new Date();
 let c = d.getDay();
